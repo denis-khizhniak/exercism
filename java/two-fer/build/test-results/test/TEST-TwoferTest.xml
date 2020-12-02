@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TwoferTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-05-17T00:32:04" hostname="acer-pc" time="0.015">
+  <properties/>
+  <testcase name="noNameGiven" classname="TwoferTest" time="0.006"/>
+  <testcase name="emptyStringIsNotTheSameAsNull" classname="TwoferTest" time="0.001"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.002"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
